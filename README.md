@@ -1,9 +1,5 @@
 # Notebooks de Machine Learning (Kaggle)
 
-Repositorio con **tres notebooks** de competiciones Kaggle, para revisión de reclutadores o hiring managers. Cada archivo incluye el flujo completo: exploración, preparación de datos, modelado y métricas.
-
-Autor: [Nicolás Graullera Villén](https://github.com/NicolasGraulleraVillen)
-
 ---
 
 ## Cómo abrirlos
