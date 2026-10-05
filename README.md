@@ -59,13 +59,4 @@ Dependencias habituales: `pandas`, `numpy`, `scikit-learn`, `catboost`, `xgboost
 
 **Métrica:** RMSE aproximadamente **451–480 g**.
 
----
 
-## Qué se puede evaluar aquí
-
-No es un portfolio de producto; es evidencia de trabajo analítico:
-
-- plantear un problema (clasificación vs regresión),
-- limpiar y validar datos,
-- elegir un modelo con criterio (nulos, categóricas, escala),
-- reportar métricas honestas (validación / OOF / private).
